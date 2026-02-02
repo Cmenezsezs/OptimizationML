@@ -1,0 +1,13 @@
+RESULTADOS DA OTIMIZAÇÃO
+==================================================
+
+AUC-ROC Baseline: 0.9427
+AUC-ROC Feature Selection: 0.9334
+AUC-ROC Grid Search: 0.9384
+AUC-ROC Ensemble: 0.9378
+
+Accuracy Baseline: 0.8970
+Accuracy Ensemble: 0.8810
+
+Melhoria Total: -0.52%
+Features: 30 → 20

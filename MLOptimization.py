@@ -1,5 +1,6 @@
 """
 Otimização de Modelo de Machine Learning
+Demonstração de técnicas avançadas para um Engenheiro de IA
 """
 
 import numpy as np

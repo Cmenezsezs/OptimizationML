@@ -1,6 +1,6 @@
 """
 Otimização de Modelo de Machine Learning - Versão Rápida
-Demonstração de técnicas avançadas para um Engenheiro de IA
+
 """
 
 import numpy as np
@@ -170,4 +170,4 @@ with open('/home/claude/resultados.txt', 'w') as f:
     f.write(f"Melhoria Total: {(ensemble_score-baseline_score)/baseline_score*100:.2f}%\n")
     f.write(f"Features: {X_train.shape[1]} → {X_train_sel.shape[1]}\n")
 
-print("\nResultados salvos em: /home/claude/resultados.txt")
+print("\nResultados salvos em: /home/results.txt")
